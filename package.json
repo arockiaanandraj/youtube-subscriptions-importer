@@ -1,0 +1,23 @@
+{
+  "name": "youtube-subscriptions-importer",
+  "version": "1.0.0",
+  "description": "Youtube Subscriptions Importer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arockiaanandraj/youtube-subscriptions-importer.git"
+  },
+  "author": "arockiaanandraj@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arockiaanandraj/youtube-subscriptions-importer/issues"
+  },
+  "homepage": "https://github.com/arockiaanandraj/youtube-subscriptions-importer#readme",
+  "dependencies": {
+    "google-auth-library": "^6.1.3",
+    "googleapis": "^66.0.0"
+  }
+}
