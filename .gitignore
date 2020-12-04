@@ -61,4 +61,4 @@ typings/
 .next
 
 dist
-client_secret.json
+client_secret*.json
